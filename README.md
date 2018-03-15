@@ -26,3 +26,8 @@ python3 manage.py runserver 80
 * Django  2.0.3
 * Celery 4.0.2
 * Redis 2.10.6
+
+## Screenshots
+![AllAtOnce](screenshots/1.png)
+![SpecificCurrency](screenshots/2.png)
+
